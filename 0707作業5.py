@@ -1,4 +1,5 @@
 # 0802 lesson prac : added name: 謝安
+# kenny到此一遊
 """
 以下的部分，都要用2個以上的while
 """
